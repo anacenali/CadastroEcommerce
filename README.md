@@ -23,6 +23,7 @@ Primeiro site utilizado por mim foi a nike, é um site de diversos produtos, com
 * Produtos favoritos 
 * Inscrever-se para receber atualizações do site 
 * Concordar com a política de privacidade e termos de uso 
+
     Ja no segundo site, também foi feito o cadastro, não teve nada de diferente, pediram:
 * E-mail 
 * senha
@@ -47,6 +48,7 @@ Primeiro site utilizado por mim foi a nike, é um site de diversos produtos, com
 * destinatario
 * forma de entrega
 * escolha da forma de pagamento 
+
     E no último site, fiz o cadastro igual aos outros, e diferente dos dois anteriores, ele perguntou o gênero. Pediram: 
 * E-mail
 * Código de verificação 
