@@ -2,7 +2,7 @@
 
 ### 📄 Primeiro site utilizado por mim foi a nike, é um site de diversos produtos, como roupas, sapatos etc. O segundo foi o site da Pandora, uma loja de joias como Braceletes, aneis, charms e outros. E o ultimo site foi o da umbro, o qual vende utensílios de futebol, como chuteiras, meiões, uniformes, dentre outros.
 
-   #### 👟 No primeiro site, foi feito o cadastro e diferente dos dois outros, ele deu a opção de pessoa física ou jurídica, e a escolha da preferência de itens. Pediram:
+#### 👟 No primeiro site, foi feito o cadastro e diferente dos dois outros, ele deu a opção de pessoa física ou jurídica, e a escolha da preferência de itens. Pediram:
 * E-mail
 * Código de verificação
 * Nome  
@@ -25,7 +25,7 @@
 * Inscrever-se para receber atualizações do site 
 * Concordar com a política de privacidade e termos de uso 
 
-    #### 💍 Ja no segundo site, também foi feito o cadastro, não teve nada de diferente, pediram:
+#### 💍 Ja no segundo site, também foi feito o cadastro, não teve nada de diferente, pediram:
 * E-mail 
 * senha
 * código de verificção 
@@ -50,7 +50,7 @@
 * forma de entrega
 * escolha da forma de pagamento 
 
-   #### ⚽ E no último site, fiz o cadastro igual aos outros, e diferente dos dois anteriores, ele perguntou o gênero. Pediram: 
+#### ⚽ E no último site, fiz o cadastro igual aos outros, e diferente dos dois anteriores, ele perguntou o gênero. Pediram: 
 * E-mail
 * Código de verificação 
 * Criar senha 
@@ -86,4 +86,4 @@ Bootstrap
 * MDN
 
 ### Autora 
-
+| [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) | :---: |
