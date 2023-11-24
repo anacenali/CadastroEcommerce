@@ -76,6 +76,7 @@
 ### 🛠️ Tecnologias
 HTML
 CSS
+Git
 
 ### 🔧 Ferramentas
 VSCODE
