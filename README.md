@@ -84,6 +84,12 @@ Bootstrap
 
 ### Sites Utilizados
 * MDN
+* Nike
+* Pandora
+* Umbro
+
+### Imagem do site 
+<img src="print.png.png" width="10%">
 
 ### Autora 
 [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) 
