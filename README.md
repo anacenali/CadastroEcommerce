@@ -75,7 +75,9 @@
 
 ### 🛠️ Tecnologias
 HTML
+
 CSS
+
 Git
 
 ### 🔧 Ferramentas
